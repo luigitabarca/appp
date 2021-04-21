@@ -1,0 +1,610 @@
+[
+    {
+        "symbol": "BTC",
+        "price": "70635000"
+    },
+    {
+        "symbol": "ETH",
+        "price": "2875000"
+    },
+    {
+        "symbol": "LTC",
+        "price": "330100"
+    },
+    {
+        "symbol": "ETC",
+        "price": "42690"
+    },
+    {
+        "symbol": "XRP",
+        "price": "1786"
+    },
+    {
+        "symbol": "BCH",
+        "price": "1176000"
+    },
+    {
+        "symbol": "QTUM",
+        "price": "22280"
+    },
+    {
+        "symbol": "BTG",
+        "price": "118100"
+    },
+    {
+        "symbol": "EOS",
+        "price": "8445"
+    },
+    {
+        "symbol": "ICX",
+        "price": "2797"
+    },
+    {
+        "symbol": "TRX",
+        "price": "166"
+    },
+    {
+        "symbol": "ELF",
+        "price": "554.7"
+    },
+    {
+        "symbol": "OMG",
+        "price": "9880"
+    },
+    {
+        "symbol": "KNC",
+        "price": "3711"
+    },
+    {
+        "symbol": "GLM",
+        "price": "561"
+    },
+    {
+        "symbol": "ZIL",
+        "price": "237"
+    },
+    {
+        "symbol": "WAXP",
+        "price": "271.5"
+    },
+    {
+        "symbol": "POWR",
+        "price": "542.1"
+    },
+    {
+        "symbol": "LRC",
+        "price": "708.4"
+    },
+    {
+        "symbol": "STEEM",
+        "price": "1187"
+    },
+    {
+        "symbol": "STRAX",
+        "price": "2567"
+    },
+    {
+        "symbol": "AE",
+        "price": "441.5"
+    },
+    {
+        "symbol": "ZRX",
+        "price": "2178"
+    },
+    {
+        "symbol": "REP",
+        "price": "48500"
+    },
+    {
+        "symbol": "XEM",
+        "price": "470.1"
+    },
+    {
+        "symbol": "SNT",
+        "price": "234.4"
+    },
+    {
+        "symbol": "ADA",
+        "price": "1577"
+    },
+    {
+        "symbol": "CTXC",
+        "price": "352.2"
+    },
+    {
+        "symbol": "BAT",
+        "price": "1580"
+    },
+    {
+        "symbol": "WTC",
+        "price": "2323"
+    },
+    {
+        "symbol": "THETA",
+        "price": "14520"
+    },
+    {
+        "symbol": "LOOM",
+        "price": "179.1"
+    },
+    {
+        "symbol": "WAVES",
+        "price": "16910"
+    },
+    {
+        "symbol": "TRUE",
+        "price": "386"
+    },
+    {
+        "symbol": "LINK",
+        "price": "48010"
+    },
+    {
+        "symbol": "RNT",
+        "price": "26.57"
+    },
+    {
+        "symbol": "ENJ",
+        "price": "3208"
+    },
+    {
+        "symbol": "VET",
+        "price": "318.5"
+    },
+    {
+        "symbol": "MTL",
+        "price": "4699"
+    },
+    {
+        "symbol": "IOST",
+        "price": "84.98"
+    },
+    {
+        "symbol": "TMTG",
+        "price": "8.53"
+    },
+    {
+        "symbol": "QKC",
+        "price": "40.68"
+    },
+    {
+        "symbol": "HDAC",
+        "price": "93.35"
+    },
+    {
+        "symbol": "WET",
+        "price": "13.08"
+    },
+    {
+        "symbol": "AMO",
+        "price": "6.605"
+    },
+    {
+        "symbol": "BSV",
+        "price": "383000"
+    },
+    {
+        "symbol": "DAC",
+        "price": "6.971"
+    },
+    {
+        "symbol": "ORBS",
+        "price": "181.4"
+    },
+    {
+        "symbol": "TFUEL",
+        "price": "385.1"
+    },
+    {
+        "symbol": "VALOR",
+        "price": "896.9"
+    },
+    {
+        "symbol": "CON",
+        "price": "8.055"
+    },
+    {
+        "symbol": "ANKR",
+        "price": "188.3"
+    },
+    {
+        "symbol": "MIX",
+        "price": "9.548"
+    },
+    {
+        "symbol": "LAMB",
+        "price": "103.2"
+    },
+    {
+        "symbol": "CRO",
+        "price": "244"
+    },
+    {
+        "symbol": "FX",
+        "price": "1002"
+    },
+    {
+        "symbol": "CHR",
+        "price": "359"
+    },
+    {
+        "symbol": "MBL",
+        "price": "21.75"
+    },
+    {
+        "symbol": "MXC",
+        "price": "47.3"
+    },
+    {
+        "symbol": "DVP",
+        "price": "63.03"
+    },
+    {
+        "symbol": "FCT",
+        "price": "210.2"
+    },
+    {
+        "symbol": "FNB",
+        "price": "8.919"
+    },
+    {
+        "symbol": "TRV",
+        "price": "29.45"
+    },
+    {
+        "symbol": "PCM",
+        "price": "22.85"
+    },
+    {
+        "symbol": "DAD",
+        "price": "410.9"
+    },
+    {
+        "symbol": "AOA",
+        "price": "6.081"
+    },
+    {
+        "symbol": "XSR",
+        "price": "5.226"
+    },
+    {
+        "symbol": "WOM",
+        "price": "313.9"
+    },
+    {
+        "symbol": "SOC",
+        "price": "13.21"
+    },
+    {
+        "symbol": "EM",
+        "price": "11.95"
+    },
+    {
+        "symbol": "QBZ",
+        "price": "8.681"
+    },
+    {
+        "symbol": "BOA",
+        "price": "417.7"
+    },
+    {
+        "symbol": "FLETA",
+        "price": "26.75"
+    },
+    {
+        "symbol": "SXP",
+        "price": "4855"
+    },
+    {
+        "symbol": "COS",
+        "price": "40.11"
+    },
+    {
+        "symbol": "APIX",
+        "price": "124.1"
+    },
+    {
+        "symbol": "EL",
+        "price": "23.2"
+    },
+    {
+        "symbol": "BASIC",
+        "price": "9.483"
+    },
+    {
+        "symbol": "HIVE",
+        "price": "699.5"
+    },
+    {
+        "symbol": "XPR",
+        "price": "16.19"
+    },
+    {
+        "symbol": "FIT",
+        "price": "5.658"
+    },
+    {
+        "symbol": "EGG",
+        "price": "9.56"
+    },
+    {
+        "symbol": "BORA",
+        "price": "294"
+    },
+    {
+        "symbol": "ARPA",
+        "price": "135.8"
+    },
+    {
+        "symbol": "APM",
+        "price": "43.65"
+    },
+    {
+        "symbol": "AERGO",
+        "price": "400.9"
+    },
+    {
+        "symbol": "ANW",
+        "price": "140.1"
+    },
+    {
+        "symbol": "CENNZ",
+        "price": "110.4"
+    },
+    {
+        "symbol": "EVZ",
+        "price": "129.5"
+    },
+    {
+        "symbol": "MCI",
+        "price": "61.04"
+    },
+    {
+        "symbol": "SRM",
+        "price": "7430"
+    },
+    {
+        "symbol": "QTCON",
+        "price": "93.9"
+    },
+    {
+        "symbol": "UNI",
+        "price": "39260"
+    },
+    {
+        "symbol": "YFI",
+        "price": "61494000"
+    },
+    {
+        "symbol": "UMA",
+        "price": "35810"
+    },
+    {
+        "symbol": "AAVE",
+        "price": "455500"
+    },
+    {
+        "symbol": "COMP",
+        "price": "599000"
+    },
+    {
+        "symbol": "SAND",
+        "price": "649.7"
+    },
+    {
+        "symbol": "CVT",
+        "price": "320"
+    },
+    {
+        "symbol": "GOM2",
+        "price": "13.4"
+    },
+    {
+        "symbol": "RINGX",
+        "price": "186.1"
+    },
+    {
+        "symbol": "BEL",
+        "price": "4839"
+    },
+    {
+        "symbol": "DVC",
+        "price": "119.2"
+    },
+    {
+        "symbol": "OBSR",
+        "price": "28.98"
+    },
+    {
+        "symbol": "ORC",
+        "price": "2909"
+    },
+    {
+        "symbol": "POLA",
+        "price": "301.1"
+    },
+    {
+        "symbol": "AWO",
+        "price": "18.43"
+    },
+    {
+        "symbol": "ADP",
+        "price": "82.64"
+    },
+    {
+        "symbol": "DVI",
+        "price": "654.3"
+    },
+    {
+        "symbol": "MIR",
+        "price": "11310"
+    },
+    {
+        "symbol": "MVC",
+        "price": "147.8"
+    },
+    {
+        "symbol": "WOZX",
+        "price": "2380"
+    },
+    {
+        "symbol": "ANV",
+        "price": "3213"
+    },
+    {
+        "symbol": "GRT",
+        "price": "1994"
+    },
+    {
+        "symbol": "MM",
+        "price": "1677"
+    },
+    {
+        "symbol": "BIOT",
+        "price": "49.31"
+    },
+    {
+        "symbol": "XNO",
+        "price": "309.7"
+    },
+    {
+        "symbol": "SNX",
+        "price": "20920"
+    },
+    {
+        "symbol": "RAI",
+        "price": "2305"
+    },
+    {
+        "symbol": "OXT",
+        "price": "823"
+    },
+    {
+        "symbol": "LINA",
+        "price": "122.5"
+    },
+    {
+        "symbol": "MANA",
+        "price": "1737"
+    },
+    {
+        "symbol": "MKR",
+        "price": "4317000"
+    },
+    {
+        "symbol": "SUSHI",
+        "price": "15650"
+    },
+    {
+        "symbol": "PUNDIX",
+        "price": "3929"
+    },
+    {
+        "symbol": "LF",
+        "price": "22360"
+    },
+    {
+        "symbol": "ARW",
+        "price": "30810"
+    },
+    {
+        "symbol": "ALICE",
+        "price": "11380"
+    },
+    {
+        "symbol": "BCD",
+        "price": "3173"
+    },
+    {
+        "symbol": "XLM",
+        "price": "651.7"
+    },
+    {
+        "symbol": "GXC",
+        "price": "1219"
+    },
+    {
+        "symbol": "BTT",
+        "price": "9.939"
+    },
+    {
+        "symbol": "VSYS",
+        "price": "59.72"
+    },
+    {
+        "symbol": "IPX",
+        "price": "76.65"
+    },
+    {
+        "symbol": "WICC",
+        "price": "616.1"
+    },
+    {
+        "symbol": "ONT",
+        "price": "2658"
+    },
+    {
+        "symbol": "LUNA",
+        "price": "16990"
+    },
+    {
+        "symbol": "AION",
+        "price": "424"
+    },
+    {
+        "symbol": "META",
+        "price": "210.9"
+    },
+    {
+        "symbol": "ONG",
+        "price": "1387"
+    },
+    {
+        "symbol": "ALGO",
+        "price": "1644"
+    },
+    {
+        "symbol": "JST",
+        "price": "173.1"
+    },
+    {
+        "symbol": "XTZ",
+        "price": "6930"
+    },
+    {
+        "symbol": "MLK",
+        "price": "2214"
+    },
+    {
+        "symbol": "WEMIX",
+        "price": "750.5"
+    },
+    {
+        "symbol": "DOT",
+        "price": "43840"
+    },
+    {
+        "symbol": "SUN",
+        "price": "50850"
+    },
+    {
+        "symbol": "ATOM",
+        "price": "25870"
+    },
+    {
+        "symbol": "SSX",
+        "price": "139.8"
+    },
+    {
+        "symbol": "BCHA",
+        "price": "48950"
+    },
+    {
+        "symbol": "TEMCO",
+        "price": "15.08"
+    },
+    {
+        "symbol": "BURGER",
+        "price": "6735"
+    }
+]

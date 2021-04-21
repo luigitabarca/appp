@@ -1,0 +1,41 @@
+[
+    {
+        "symbol": "ETHBTC",
+        "price": "0.04078100"
+    },
+    {
+        "symbol": "LTCBTC",
+        "price": "0.00480100"
+    },
+    {
+        "symbol": "BNBBTC",
+        "price": "0.01029690"
+    },
+    {
+        "symbol": "NEOBTC",
+        "price": "0.00197100"
+    },
+    {
+        "symbol": "QTUMETH",
+        "price": "0.00777600"
+    },
+    {
+        "symbol": "EOSETH",
+        "price": "0.00294300"
+    },
+    {
+        "symbol": "SNTETH",
+        "price": "0.00008065"
+    },
+    {
+        "symbol": "BNTETH",
+        "price": "0.00293300"
+    },
+    {
+        "symbol": "BCCBTC",
+        "price": "0.07908100"
+    },
+    {
+        "symbol": "GASBTC",
+        "price": "0.00030340"
+    }]

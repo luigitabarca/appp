@@ -1,0 +1,470 @@
+[
+    {
+        "symbol": "KRW-BTC",
+        "pret": 69799000.0
+    },
+    {
+        "symbol": "KRW-ETH",
+        "pret": 2883000.0
+    },
+    {
+        "symbol": "KRW-NEO",
+        "pret": 128700.0
+    },
+    {
+        "symbol": "KRW-MTL",
+        "pret": 5830.0
+    },
+    {
+        "symbol": "KRW-LTC",
+        "pret": 325000.0
+    },
+    {
+        "symbol": "KRW-XRP",
+        "pret": 1700.0
+    },
+    {
+        "symbol": "KRW-ETC",
+        "pret": 41390.0
+    },
+    {
+        "symbol": "KRW-OMG",
+        "pret": 9695.0
+    },
+    {
+        "symbol": "KRW-SNT",
+        "pret": 236.0
+    },
+    {
+        "symbol": "KRW-WAVES",
+        "pret": 18730.0
+    },
+    {
+        "symbol": "KRW-XEM",
+        "pret": 470.0
+    },
+    {
+        "symbol": "KRW-QTUM",
+        "pret": 20790.0
+    },
+    {
+        "symbol": "KRW-LSK",
+        "pret": 6795.0
+    },
+    {
+        "symbol": "KRW-STEEM",
+        "pret": 1205.0
+    },
+    {
+        "symbol": "KRW-XLM",
+        "pret": 635.0
+    },
+    {
+        "symbol": "KRW-ARDR",
+        "pret": 518.0
+    },
+    {
+        "symbol": "KRW-KMD",
+        "pret": 3740.0
+    },
+    {
+        "symbol": "KRW-ARK",
+        "pret": 2660.0
+    },
+    {
+        "symbol": "KRW-STORJ",
+        "pret": 2450.0
+    },
+    {
+        "symbol": "KRW-GRS",
+        "pret": 1820.0
+    },
+    {
+        "symbol": "KRW-REP",
+        "pret": 49180.0
+    },
+    {
+        "symbol": "KRW-EMC2",
+        "pret": 712.0
+    },
+    {
+        "symbol": "KRW-ADA",
+        "pret": 1580.0
+    },
+    {
+        "symbol": "KRW-SBD",
+        "pret": 10390.0
+    },
+    {
+        "symbol": "KRW-POWR",
+        "pret": 553.0
+    },
+    {
+        "symbol": "KRW-BTG",
+        "pret": 116600.0
+    },
+    {
+        "symbol": "KRW-ICX",
+        "pret": 2880.0
+    },
+    {
+        "symbol": "KRW-EOS",
+        "pret": 8125.0
+    },
+    {
+        "symbol": "KRW-TRX",
+        "pret": 163.0
+    },
+    {
+        "symbol": "KRW-SC",
+        "pret": 57.9
+    },
+    {
+        "symbol": "KRW-IGNIS",
+        "pret": 196.0
+    },
+    {
+        "symbol": "KRW-ONT",
+        "pret": 2515.0
+    },
+    {
+        "symbol": "KRW-ZIL",
+        "pret": 234.0
+    },
+    {
+        "symbol": "KRW-POLY",
+        "pret": 507.0
+    },
+    {
+        "symbol": "KRW-ZRX",
+        "pret": 2175.0
+    },
+    {
+        "symbol": "KRW-LOOM",
+        "pret": 187.0
+    },
+    {
+        "symbol": "KRW-BCH",
+        "pret": 1166500.0
+    },
+    {
+        "symbol": "KRW-ADX",
+        "pret": 1570.0
+    },
+    {
+        "symbol": "KRW-BAT",
+        "pret": 1585.0
+    },
+    {
+        "symbol": "KRW-IOST",
+        "pret": 83.2
+    },
+    {
+        "symbol": "KRW-DMT",
+        "pret": 1455.0
+    },
+    {
+        "symbol": "KRW-RFR",
+        "pret": 27.3
+    },
+    {
+        "symbol": "KRW-CVC",
+        "pret": 705.0
+    },
+    {
+        "symbol": "KRW-IQ",
+        "pret": 31.4
+    },
+    {
+        "symbol": "KRW-IOTA",
+        "pret": 2870.0
+    },
+    {
+        "symbol": "KRW-MFT",
+        "pret": 22.3
+    },
+    {
+        "symbol": "KRW-ONG",
+        "pret": 1360.0
+    },
+    {
+        "symbol": "KRW-GAS",
+        "pret": 20100.0
+    },
+    {
+        "symbol": "KRW-UPP",
+        "pret": 207.0
+    },
+    {
+        "symbol": "KRW-ELF",
+        "pret": 556.0
+    },
+    {
+        "symbol": "KRW-KNC",
+        "pret": 4130.0
+    },
+    {
+        "symbol": "KRW-BSV",
+        "pret": 379150.0
+    },
+    {
+        "symbol": "KRW-THETA",
+        "pret": 14620.0
+    },
+    {
+        "symbol": "KRW-EDR",
+        "pret": 98.0
+    },
+    {
+        "symbol": "KRW-QKC",
+        "pret": 41.8
+    },
+    {
+        "symbol": "KRW-BTT",
+        "pret": 9.89
+    },
+    {
+        "symbol": "KRW-MOC",
+        "pret": 202.0
+    },
+    {
+        "symbol": "KRW-ENJ",
+        "pret": 3365.0
+    },
+    {
+        "symbol": "KRW-TFUEL",
+        "pret": 390.0
+    },
+    {
+        "symbol": "KRW-MANA",
+        "pret": 1705.0
+    },
+    {
+        "symbol": "KRW-ANKR",
+        "pret": 194.0
+    },
+    {
+        "symbol": "KRW-AERGO",
+        "pret": 418.0
+    },
+    {
+        "symbol": "KRW-ATOM",
+        "pret": 25430.0
+    },
+    {
+        "symbol": "KRW-TT",
+        "pret": 24.7
+    },
+    {
+        "symbol": "KRW-CRE",
+        "pret": 26.2
+    },
+    {
+        "symbol": "KRW-SOLVE",
+        "pret": 346.0
+    },
+    {
+        "symbol": "KRW-MBL",
+        "pret": 22.9
+    },
+    {
+        "symbol": "KRW-TSHP",
+        "pret": 31.2
+    },
+    {
+        "symbol": "KRW-WAXP",
+        "pret": 270.0
+    },
+    {
+        "symbol": "KRW-HBAR",
+        "pret": 386.0
+    },
+    {
+        "symbol": "KRW-MED",
+        "pret": 162.0
+    },
+    {
+        "symbol": "KRW-MLK",
+        "pret": 2285.0
+    },
+    {
+        "symbol": "KRW-STPT",
+        "pret": 107.0
+    },
+    {
+        "symbol": "KRW-ORBS",
+        "pret": 189.0
+    },
+    {
+        "symbol": "KRW-VET",
+        "pret": 302.0
+    },
+    {
+        "symbol": "KRW-CHZ",
+        "pret": 699.0
+    },
+    {
+        "symbol": "KRW-PXL",
+        "pret": 125.0
+    },
+    {
+        "symbol": "KRW-STMX",
+        "pret": 65.9
+    },
+    {
+        "symbol": "KRW-DKA",
+        "pret": 327.0
+    },
+    {
+        "symbol": "KRW-HIVE",
+        "pret": 683.0
+    },
+    {
+        "symbol": "KRW-KAVA",
+        "pret": 6815.0
+    },
+    {
+        "symbol": "KRW-AHT",
+        "pret": 23.0
+    },
+    {
+        "symbol": "KRW-LINK",
+        "pret": 46510.0
+    },
+    {
+        "symbol": "KRW-XTZ",
+        "pret": 6995.0
+    },
+    {
+        "symbol": "KRW-BORA",
+        "pret": 301.0
+    },
+    {
+        "symbol": "KRW-JST",
+        "pret": 171.0
+    },
+    {
+        "symbol": "KRW-CRO",
+        "pret": 251.0
+    },
+    {
+        "symbol": "KRW-TON",
+        "pret": 15560.0
+    },
+    {
+        "symbol": "KRW-SXP",
+        "pret": 4820.0
+    },
+    {
+        "symbol": "KRW-LAMB",
+        "pret": 107.0
+    },
+    {
+        "symbol": "KRW-HUNT",
+        "pret": 466.0
+    },
+    {
+        "symbol": "KRW-MARO",
+        "pret": 540.0
+    },
+    {
+        "symbol": "KRW-PLA",
+        "pret": 556.0
+    },
+    {
+        "symbol": "KRW-DOT",
+        "pret": 42990.0
+    },
+    {
+        "symbol": "KRW-SRM",
+        "pret": 7665.0
+    },
+    {
+        "symbol": "KRW-MVL",
+        "pret": 34.4
+    },
+    {
+        "symbol": "KRW-PCI",
+        "pret": 2305.0
+    },
+    {
+        "symbol": "KRW-STRAX",
+        "pret": 4910.0
+    },
+    {
+        "symbol": "KRW-AQT",
+        "pret": 9305.0
+    },
+    {
+        "symbol": "KRW-BCHA",
+        "pret": 51840.0
+    },
+    {
+        "symbol": "KRW-GLM",
+        "pret": 580.0
+    },
+    {
+        "symbol": "KRW-QTCON",
+        "pret": 99.0
+    },
+    {
+        "symbol": "KRW-SSX",
+        "pret": 156.0
+    },
+    {
+        "symbol": "KRW-META",
+        "pret": 224.0
+    },
+    {
+        "symbol": "KRW-OBSR",
+        "pret": 41.4
+    },
+    {
+        "symbol": "KRW-FCT2",
+        "pret": 235.0
+    },
+    {
+        "symbol": "KRW-LBC",
+        "pret": 247.0
+    },
+    {
+        "symbol": "KRW-CBK",
+        "pret": 8735.0
+    },
+    {
+        "symbol": "KRW-SAND",
+        "pret": 688.0
+    },
+    {
+        "symbol": "KRW-HUM",
+        "pret": 205.0
+    },
+    {
+        "symbol": "KRW-DOGE",
+        "pret": 400.0
+    },
+    {
+        "symbol": "KRW-STRK",
+        "pret": 63970.0
+    },
+    {
+        "symbol": "KRW-PUNDIX",
+        "pret": 4345.0
+    },
+    {
+        "symbol": "KRW-FLOW",
+        "pret": 45160.0
+    },
+    {
+        "symbol": "KRW-DAWN",
+        "pret": 7180.0
+    },
+    {
+        "symbol": "KRW-AXS",
+        "pret": 11220.0
+    },
+    {
+        "symbol": "KRW-STX",
+        "pret": 2995.0
+    }
+]

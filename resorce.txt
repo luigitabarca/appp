@@ -1,0 +1,43 @@
+https://github.com/lsjhome/pyupbit.git - resurse api upbit
+
+
+
+#print(prices)
+
+#details=client.get_ticker()
+
+#v=[{"symbol": , "volume":}]
+#nr=0
+#print(details)
+#list_dicts = []
+
+#n=len(details)
+"""
+for _ in range(n):
+    dict_tmp = {}
+    for i in details:
+        dict_tmp["symbol"]=i['symbol']
+        dict_tmp["volume"]=i['volume']  
+    list_dicts.append( dict_tmp )
+
+"""
+"""
+dict_tmp = {}
+for i in details:
+    dict_tmp["symbol"]=i['symbol']
+    dict_tmp["volume"]=i['volume']
+    list_dicts.append( dict_tmp )
+    dict_tmp = {}
+        
+#print(list_dicts)
+
+for i in list_dicts:
+    print(i['symbol'])
+
+#with open('pret.json', 'w') as json_file:
+    #json.dump(prices, json_file)
+    
+with open('volum.json', 'w') as json_file:
+    json.dump(list_dicts, json_file)
+"""
+
