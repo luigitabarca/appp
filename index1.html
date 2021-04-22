@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+	<link rel="shortcut icon" href="data:image/x-icon;," type="image/x-icon">
+	<title>Document</title>
+</head>
+<body>
+<script>
+	setTimeout(function(){
+		document.location.reload(1);
+}, 1000);
+</script>
+
+
+<!-- <script>
+	 setTimeout(function(){$('myTable').load(document.URL +  'myTable');},3000)
+</script> -->
+
+	
+
+
+
+	<table class="table table-striped">
+		<tr  class="bg-info">
+			<th>Symbol</th>
+			<th>PriceBinance</th>
+			<th>VolumeBinance</th>
+			<th>PriceBithumb</th>
+			<th>VolumeBithumb</th>
+			<th>PriceCoinbit</th>
+			<th>VolumeCoinbit</th>
+			<th>PriceUpbit</th>	
+			<th>VolumeUpbit</th>			
+		</tr>
+	
+		<tbody id="myTable">
+			{% for dict in data %}
+			<tr>
+				<td> {{ dict['symbol'] }} </td> 
+				<td> {{ "$%.4f"|format(dict['priceBinance']) }} </td> 
+				<td> {{ "$%.0f"|format(dict['volumeBinance']) }} </td> 
+				<td> {{ "$%.4f"|format(dict['priceBithumb'] * price) }} </td> 
+				<td> {{ "$%.0f"|format(dict['volumeBithumb'] * price) }} </td> 
+				<td> {{ "$%.4f"|format(dict['priceCoinbit'] * price) }} </td> 
+				<td> {{ "$%.0f"|format(dict['volumeCoinbit'] * price) }} </td>
+				<td> {{ "$%.4f"|format(dict['priceUpbit'] * price) }} </td> 
+				<td> {{ "$%.0f"|format(dict['volumeUpbit'] * price)}} </td> 
+			</tr>
+			{% endfor %}
+		</tbody>
+	</table>
+</body>
+</html>
+
+
+
+
+<style>
+    th{ 
+        color:#fff;
+            }
+</style>
+
+
+
+
+<!-- <script>
+	var myArray = []
+	
+
+	$.ajax({
+		method:'GET',
+        url:'http://127.0.0.1:5000/data',
+		success:function(response){
+			myArray = response
+			buildTable(myArray)
+			console.log(myArray)
+		}
+	})
+	
+
+	function buildTable(data){
+		var table = document.getElementById('myTable')
+
+		for (var i = 0; i <data.length; i++){
+			var row = `<tr>
+							<td>${data[i].symbol}</td>
+							<td>${data[i].priceBinance}</td>
+							<td>${data[i].priceBithumb}</td>
+							<td>${data[i].priceCoinbit}</td>
+							<td>&#36;${data[i].priceUpbit*0.00089}</td>
+					  </tr>`
+			table.innerHTML += row
+
+
+		}
+	}
+
+</script> -->
